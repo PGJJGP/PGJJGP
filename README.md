@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PGJJGP
+- 👀 I’m interested in data driven decisions
+- 🌱 I’m always learning
