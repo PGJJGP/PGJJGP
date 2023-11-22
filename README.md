@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Phil GJ
 - 👀 I’m interested in data driven decisions
 - 🌱 I’m always learning
+- 🔎 Here are some of my projects, some serious, some fun
